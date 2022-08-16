@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdrianeDriane
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning C language and Kotlin.
-- 💞️ I’m looking to have someone as competent as me to be my coding partner.
-- 📫 How to reach me... @heichouadriane_ on IG
+- 🌱 I’m currently learning Android Development.
+- 💞️ OldMcDonalds had a farm E I E I O
+- 📫 How to reach me... dilaoaparre@gmail.com
 
 <!---
 AdrianeDriane/AdrianeDriane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
