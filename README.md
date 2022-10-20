@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdrianeDriane
-- 👀 I’m interested in learning.
+- 👀 I’m interested in learning and improving my skills.
 - 🌱 I’m currently learning Android Development.
-- 💞️ OldMcDonalds had a farm E I E I O
 - 📫 How to reach me... dilaoaparre@gmail.com
 
 <!---
