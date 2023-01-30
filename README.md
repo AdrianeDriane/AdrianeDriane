@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianeDriane
 - 👀 I’m interested in learning and improving my skills.
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning Android & Web Development.
 - 📫 How to reach me... dilaoaparre@gmail.com
 
 <!---
