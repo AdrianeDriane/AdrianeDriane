@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdrianeDriane
 - 👀 I’m interested in learning and improving my skills.
 - 🌱 I’m currently learning Web Development.
-- 🎓 I'm a 2nd Year student of Bachelor of Science in Information Technology in University of Cebu
+- 🎓 I'm a 3rd Year student of Bachelor of Science in Information Technology in University of Cebu
 - 📫 How to reach me... dilaoaparre@gmail.com
