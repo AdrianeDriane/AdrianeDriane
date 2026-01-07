@@ -38,8 +38,7 @@
 ### Activity
 
 <p>
-  <em>Commit habits (time of day & day of week)</em><br/>
-  <img src="./metrics.svg" alt="commit habits" />
+  <img src="./github_metrics.svg" alt="Github Metrics" />
 </p>
 
 <p>
