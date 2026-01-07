@@ -1,6 +1,8 @@
-<div align="center">
+<div align="center" style="max-width: 800px; margin: 0 auto;">
 
 <h1>Hello, my name is Adriane 🚀</h1>
+
+---
 
 <p><strong>Software developer building high‑impact, feature-rich web apps.</strong></p>
 <p><em>Full‑stack • AI integrations • Cloud services</em></p>
@@ -26,25 +28,13 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img alt="Relational DB Design" src="https://img.shields.io/badge/Relational%20DB%20Design-1F2937?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=flat&logo=icloud&logoColor=white" />
-  <img alt="AI/ML Integration" src="https://img.shields.io/badge/AI%2FML%20Integration-7C3AED?style=flat&logo=keras&logoColor=white" />
+  <img alt="AI/ML Integration" src="https://img.shields.io/badge/just%20the%20message-7C3AED" />
 </p>
-
-<!-- Learning folded section removed; consolidated into Techstack per preference. -->
-
-<!-- Projects section omitted — pin repos on your profile for showcase. -->
 
 ### Activity
 
 <p>
   <img src="./metrics.svg" alt="Github Metrics" />
-</p>
-
-### Contact
-
-<p>
-  <a href="https://ralphadrianedilao.vercel.app" target="_blank"><a href="https://ralphadrianedilao.vercel.app" target="_blank" style="text-decoration:none"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank" style="text-decoration:none"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" /></a>
 </p>
 
 ### Off‑hours
