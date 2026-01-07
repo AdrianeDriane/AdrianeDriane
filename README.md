@@ -1,4 +1,4 @@
-<div align="left" >
+<div align="left" style="max-width: 800px; margin: 0 auto;" >
 
 <h1>Hello, my name is Adriane 🚀</h1>
 
