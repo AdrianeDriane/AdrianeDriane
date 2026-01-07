@@ -39,5 +39,5 @@ jobs:
           plugin_languages_threshold: 0%
 
           # Output
-          filename: metrics.svg
+          filename: github_metrics.svg
           config_output: svg
