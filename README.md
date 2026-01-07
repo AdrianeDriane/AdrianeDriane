@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ralph Adriane Dilao</h1>
+<h1>Hello, my name is Adriane 🚀</h1>
 
 <p><strong>Software developer building high‑impact, feature-rich web apps.</strong></p>
 <p><em>Full‑stack • AI integrations • Cloud services</em></p>
