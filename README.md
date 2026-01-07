@@ -56,12 +56,6 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### Stats
-
-<p>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdrianeDriane&show_icons=true&hide=stars,issues&theme=github_dark" />
-</p>
-
 ### Contact
 
 <p>
