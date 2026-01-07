@@ -17,4 +17,4 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_skipped: bots,templates,merges
+          plugin_habits_skipped: bots,templates,merges,unknown
