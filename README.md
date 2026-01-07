@@ -1,17 +1,17 @@
 <div align="center">
 
-<h1>Adriane</h1>
+<h1>Ralph Adriane Dilao</h1>
 
-<p><strong>Software developer building high‑impact web apps.</strong></p>
+<p><strong>Software developer building high‑impact, feature-rich web apps.</strong></p>
 <p><em>Full‑stack • AI integrations • Cloud services</em></p>
 
-<a href="https://your-portfolio" target="_blank">
+<a href="https://ralphadrianedilao.vercel.app" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" />
 </a>
-<a href="https://your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your@email">
+<a href="dilaoaparre@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" />
 </a>
 <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=flat&logo=github&logoColor=white" />
@@ -20,11 +20,7 @@
 
 ---
 
-### Now
-
-Shipping full‑stack features with AI and cloud services. If you’re hiring, I’m open to work.
-
-### Toolbox
+### Techstack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
@@ -35,27 +31,15 @@ Shipping full‑stack features with AI and cloud services. If you’re hiring, I
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img alt="Framer" src="https://img.shields.io/badge/Framer-111111?style=flat&logo=framer&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img alt="Relational DB Design" src="https://img.shields.io/badge/Relational%20DB%20Design-1F2937?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=flat&logo=icloud&logoColor=white" />
+  <img alt="AI/ML Integration" src="https://img.shields.io/badge/AI%2FML%20Integration-7C3AED?style=flat&logo=keras&logoColor=white" />
 </p>
 
-<details>
-  <summary><strong>Learning</strong> — Next.js · Relational DB Design · Cloud Services · AI/ML Integration</summary>
-  <br/>
-  <p>
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-    <img alt="AI/ML" src="https://img.shields.io/badge/AI%2FML-7C3AED?style=flat&logo=keras&logoColor=white" />
-    <img alt="Cloud" src="https://img.shields.io/badge/Cloud-0EA5E9?style=flat&logo=icloud&logoColor=white" />
-  </p>
-  <em>Keeping this folded keeps the page lean.</em>
-</details>
+<!-- Learning folded section removed; consolidated into Techstack per preference. -->
 
-### Projects (quick templates)
-
-- <strong>Project Name</strong> — one line on what it does and who it’s for  
-  • Role: your role · Tech: stack · Outcome: measurable result · <a href="https://your-project-link">Link</a>
-- <strong>Project Name</strong> — one line  
-  • Role: · Tech: · Outcome: · Link
-- <strong>Project Name</strong> — one line  
-  • Role: · Tech: · Outcome: · Link
+<!-- Projects section omitted — pin repos on your profile for showcase. -->
 
 ### Activity
 
@@ -80,17 +64,20 @@ Shipping full‑stack features with AI and cloud services. If you’re hiring, I
 ### Contact
 
 <p>
-  <a href="https://your-portfolio" target="_blank">
+  <a href="https://ralphadrianedilao.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email">
+  <a href="mailto:dilaoaparre@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" />
   </a>
 </p>
 
 ### Off‑hours
 
-🏀 Basketball · 🏈 Football · 🥋 MMA
+Sports nerd. I watch:
+🏀 Basketball
+⚽ Football
+🥊 MMA
