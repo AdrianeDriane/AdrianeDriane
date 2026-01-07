@@ -10,8 +10,6 @@
 <a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" /></a>
 <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=flat&logo=github&logoColor=white" />
 
-</div>
-
 ---
 
 ### Techstack
@@ -55,3 +53,5 @@ Sports nerd. I watch:
 🏀 Basketball
 ⚽ Football
 🥊 MMA
+
+</div>
