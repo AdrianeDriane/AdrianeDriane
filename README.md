@@ -58,16 +58,9 @@
 ### Contact
 
 <p>
-  <a href="https://ralphadrianedilao.vercel.app" target="_blank">
-    <a href="https://ralphadrianedilao.vercel.app" target="_blank" style="text-decoration:none">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" />
-  </a>
-    <a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank" style="text-decoration:none">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none">
-    <img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" />
-  </a>
+  <a href="https://ralphadrianedilao.vercel.app" target="_blank"><a href="https://ralphadrianedilao.vercel.app" target="_blank" style="text-decoration:none"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank" style="text-decoration:none"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" /></a>
 </p>
 
 ### Off‑hours
