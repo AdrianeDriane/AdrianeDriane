@@ -24,7 +24,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img alt="Relational DB Design" src="https://img.shields.io/badge/Relational%20DB%20Design-1F2937?style=flat&logo=postgresql&logoColor=white" />
   <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=flat&logo=icloud&logoColor=white" />
-  <img alt="AI/ML Integration" src="https://img.shields.io/badge/just%20the%20message-7C3AED" />
+  <img alt="AI/ML Integration" src="https://img.shields.io/badge/AI%20Integration-7C3AED" />
 </p>
 
 ### Activity
