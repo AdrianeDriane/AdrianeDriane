@@ -1,20 +1,56 @@
-name: Generate Metrics
+# .github/workflows/metrics.yml
+name: Metrics
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 2 * * *"   # daily 02:00 UTC; change if you want
   workflow_dispatch:
+  push:
+    branches: ["main"]
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: oddstr13/github-profile-metrics@odd-choices
         with:
+          use_prebuilt_image: no
+          debug: yes
+          debug_print: yes
+
           token: ${{ secrets.METRICS_TOKEN }}
+
           user: AdrianeDriane
-          filename: metrics.svg
-          base: ""
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_skipped: bots,templates,merges,unknown
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Manila
+
+          # Follow-up section
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming, data
+          plugin_languages_colors: github
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming, data
+          plugin_languages_recent_days: 90
+          plugin_languages_recent_load: 600
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_threshold: 0%
+
+          # Lines
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+
+          # Disabled per request
+          plugin_habits: no
+          plugin_notable: no
