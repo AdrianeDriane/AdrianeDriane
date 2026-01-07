@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 800px; margin: 0 auto;">
+<div align="left" >
 
 <h1>Hello, my name is Adriane 🚀</h1>
 
@@ -11,8 +11,6 @@
 <a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank" style="text-decoration:none"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" /></a>
 <img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=flat&logo=github&logoColor=white" />
-
----
 
 ### Techstack
 
