@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AdrianeDriane
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Manila
 
           # Issues and PRs status
@@ -23,7 +23,7 @@ jobs:
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
 
-          # Languages - indepth + recently used
+          # Languages - indepth + recently used, ignore SVG
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: svg
@@ -38,6 +38,13 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 0%
 
+          # WakaTime
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 7
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_limit: 5
+
           # Output
-          filename: github_metrics.svg
+          filename: metrics.svg
           config_output: svg
