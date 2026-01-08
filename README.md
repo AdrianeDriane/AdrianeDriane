@@ -1,43 +1,42 @@
-<div align="left" style="max-width: 600px; margin: 0 auto;" >
+<div align="center">
 
-<h1>Hello, my name is Adriane 🚀</h1>
+# Hello, I'm Adriane 🚀
 
-<p><strong>Software developer building high‑impact, feature-rich web apps.</strong></p>
-<p><em>Full‑stack • AI integrations • Cloud services</em></p>
+**Software developer building high‑impact, feature-rich web apps.**
 
-<a href="https://ralphadrianedilao.vercel.app" target="_blank" style="text-decoration:none"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ralphadrianedilao/" target="_blank" style="text-decoration:none"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dilaoaparre@gmail.com" style="text-decoration:none"><img alt="Email" src="https://img.shields.io/badge/Email-444444?style=flat&logo=minutemailer&logoColor=white" /></a>
-<img alt="Open to work" src="https://img.shields.io/badge/Open%20to%20work-22C55E?style=flat&logo=github&logoColor=white" />
+_Full‑stack • AI integrations • Cloud services_
 
-### Techstack
+<br />
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0b1f2a" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="Framer" src="https://img.shields.io/badge/Framer-111111?style=flat&logo=framer&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="Relational DB Design" src="https://img.shields.io/badge/Relational%20DB%20Design-1F2937?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Cloud Services" src="https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=flat&logo=icloud&logoColor=white" />
-  <img alt="AI/ML Integration" src="https://img.shields.io/badge/AI%20Integration-7C3AED" />
-</p>
+[Portfolio](https://ralphadrianedilao.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ralphadrianedilao/) • [Email](mailto:dilaoaparre@gmail.com) • Open to work
 
-### Activity
+---
 
-<p>
-  <img src="./metrics.svg" alt="Github Metrics" />
-</p>
+## Techstack
 
-### Off‑hours
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0b1f2a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Relational DB](https://img.shields.io/badge/Relational%20DB-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloud Services](https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
 
-Sports nerd. I watch:
-🏀 Basketball
-⚽ Football
-🥊 MMA
+---
+
+## Activity
+
+![Github Metrics](./metrics.svg)
+
+---
+
+## Off‑hours
+
+🏀 Basketball · ⚽ Football · 🥊 MMA
 
 </div>
