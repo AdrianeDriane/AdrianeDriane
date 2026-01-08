@@ -10,7 +10,6 @@ _Full‑stack • AI integrations • Cloud services_
 
 [Portfolio](https://ralphadrianedilao.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ralphadrianedilao/) • [Email](mailto:dilaoaparre@gmail.com) • Open to work
 
----
 
 ## Techstack
 
@@ -27,13 +26,11 @@ _Full‑stack • AI integrations • Cloud services_
 ![Cloud Services](https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
 
----
 
 ## Activity
 
 ![Github Metrics](./metrics.svg)
 
----
 
 ## Off‑hours
 
