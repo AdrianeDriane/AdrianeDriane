@@ -34,6 +34,7 @@ _Full‑stack • AI integrations • Cloud services_
 
 ## Off‑hours
 
+Sports nerd. I love watching:
 🏀 Basketball · ⚽ Football · 🥊 MMA
 
 </div>
