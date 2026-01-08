@@ -15,15 +15,18 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AdrianeDriane
           template: classic
-          base: ""
+          
+          # Only enables the "Last Updated" timestamp footer
+          base: metadata
+          
           config_timezone: Asia/Manila
-
+          
           # Issues and PRs status
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
 
-          # Languages - indepth + recently used, ignore SVG
+          # Languages
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: svg
