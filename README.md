@@ -21,8 +21,6 @@ _Full‑stack • AI integrations • Cloud services_
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Relational DB](https://img.shields.io/badge/Relational%20DB-1F2937?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Cloud Services](https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
 
