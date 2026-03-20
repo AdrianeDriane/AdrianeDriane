@@ -11,7 +11,7 @@ _Full‑stack • AI integrations • Cloud services_
 [Portfolio](https://ralphadrianedilao.vercel.app) • [LinkedIn](https://www.linkedin.com/in/ralphadrianedilao/) • [Email](mailto:dilaoaparre@gmail.com) • Open to work
 
 
-## Techstack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0b1f2a)
