@@ -35,7 +35,7 @@ _Full‑stack • AI integrations • Cloud services_
 Sports nerd. I love watching:
 🏀 Basketball · ⚽ Football · 🥊 MMA
 
-## [Adriano 🤖🦞](https://github.com/IanoDri) 
+### Meet [Adriano 🤖🦞](https://github.com/IanoDri) 
 
 
 </div>
