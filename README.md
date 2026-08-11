@@ -22,7 +22,7 @@ _Full‑stack • AI integrations • Cloud services_
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=white)
 ![Cloud Services](https://img.shields.io/badge/Cloud%20Services-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=keras&logoColor=white)
 
 
 ## Activity
