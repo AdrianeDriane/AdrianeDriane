@@ -21,9 +21,10 @@ jobs:
           
           config_timezone: Asia/Manila
 
-          # Default is "0, 8 + 11%", which leaves ~90px of blank space at the bottom
-          # (gap before footer.svg in the README)
-          config_padding: 0, 10
+          # Default is "0, 8 + 11%", which leaves a big blank gap before footer.svg.
+          # Height is measured on GitHub's Linux runner; macOS/Windows fonts render
+          # ~15px taller, so 10 clipped the "Last updated" line. 36 leaves room.
+          config_padding: 0, 36
           
           # Isometric contribution calendar (streaks + commits/day)
           plugin_isocalendar: yes
