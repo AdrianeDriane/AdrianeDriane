@@ -41,12 +41,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-          # Lines of code pushed (history graph, no repo names)
-          # delay: GitHub returns 202 (no data) on the first stats request, so wait and retry
-          plugin_lines: yes
-          plugin_lines_sections: history
-          plugin_lines_delay: 30
-
           # WakaTime (last week: time, languages, editors, OS)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
