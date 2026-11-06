@@ -20,6 +20,10 @@ jobs:
           base: metadata
           
           config_timezone: Asia/Manila
+
+          # Default is "0, 8 + 11%", which leaves ~90px of blank space at the bottom
+          # (gap before footer.svg in the README)
+          config_padding: 0, 10
           
           # Isometric contribution calendar (streaks + commits/day)
           plugin_isocalendar: yes
@@ -37,9 +41,11 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-          # Lines of code changed (totals + history graph, no repo names)
+          # Lines of code pushed (history graph, no repo names)
+          # delay: GitHub returns 202 (no data) on the first stats request, so wait and retry
           plugin_lines: yes
-          plugin_lines_sections: base, history
+          plugin_lines_sections: history
+          plugin_lines_delay: 30
 
           # WakaTime (last week: time, languages, editors, OS)
           plugin_wakatime: yes
