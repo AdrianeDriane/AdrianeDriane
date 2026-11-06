@@ -21,7 +21,11 @@ jobs:
           
           config_timezone: Asia/Manila
           
-          # Languages (Most used + activity)
+          # Isometric contribution calendar (streaks + commits/day)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages (Most used)
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: svg
@@ -30,17 +34,18 @@ jobs:
           plugin_languages_categories: markup, programming, data
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming, data
-          plugin_languages_recent_days: 90
-          plugin_languages_recent_load: 600
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
-          # WakaTime (last week + projects + languages)
+          # Lines of code changed (totals + history graph, no repo names)
+          plugin_lines: yes
+          plugin_lines_sections: base, history
+
+          # WakaTime (last week: time, languages, editors, OS)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_limit: 5
 
           # Output
