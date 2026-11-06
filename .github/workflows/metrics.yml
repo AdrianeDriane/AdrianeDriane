@@ -29,23 +29,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Languages (Most used)
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_ignored: svg
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming, data
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-
-          # WakaTime (last week: time, languages, editors, OS)
+          # WakaTime (last week: time, top language, editor, OS)
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, editors, os
           plugin_wakatime_limit: 5
 
           # Output
