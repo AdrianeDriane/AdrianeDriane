@@ -9,7 +9,7 @@ h2{font-size:16px}
 .field>svg{margin:0 8px;fill:#959da5;flex-shrink:0}
 .hero{padding:6px 13px 12px}
 .hello{font-size:26px;font-weight:600;line-height:1.25;margin:0;letter-spacing:-.3px}
-.name{background:linear-gradient(90deg,#2f81f7 0%,#a371f7 100%);
+.name{background:linear-gradient(90deg,#2f81f7 0%,#06b6d4 100%);
   -webkit-background-clip:text;background-clip:text;color:transparent;-webkit-text-fill-color:transparent}
 .rocket{display:inline-block;margin-left:4px;font-size:22px;animation:float 3s ease-in-out infinite}
 @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
